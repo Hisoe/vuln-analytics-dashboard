@@ -46,7 +46,7 @@ Result: The dashboard successfully distills 5,000 alerts down to the specific Cr
 
 ## 📊 Dashboard Preview
 
-
+<img width="896" height="475" alt="dashboard_preview" src="https://github.com/user-attachments/assets/e2cb7de9-baed-41d2-ad65-372a8d034d26" />
 
 ## 🤝 The "Shift-Left" Communication Strategy
 
